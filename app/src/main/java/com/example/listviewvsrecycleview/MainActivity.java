@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity implements ListItemViewHolde
     @Override
     public void onItemSelected(String model)
     {
-        alertDialog.setMessage(model);
+        alertDialog.setMessage("\n\n\n"+model+"\n\n\n");
         alertDialog.show();
     }
 
