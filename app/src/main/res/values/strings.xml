@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListView vs RecycleView</string>
+    <string name="listviewfragment_title">ListView</string>
+    <string name="recycleviewfragment_title">RecycleView</string>
+</resources>
